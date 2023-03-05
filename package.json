@@ -1,0 +1,24 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "Module 4 Graded Review Videos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djwils12/fullstack.git"
+  },
+  "author": "David Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djwils12/fullstack/issues"
+  },
+  "homepage": "https://github.com/djwils12/fullstack#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0",
+    "nodemon": "^2.0.21"
+  }
+}
